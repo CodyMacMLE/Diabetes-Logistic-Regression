@@ -13,11 +13,11 @@ A binary classification model predicting the likelihood of diabetes based on hea
 - Evaluation: Confusion matrix, ROC-AUC, precision/recall
 
 ## 📈 Results
-- Accuracy: XX%
-- AUC Score: XX
+- Accuracy: 0.77%
+- AUC Score: 0.74
 
 ## 🧪 Tools Used
-`pandas`, `scikit-learn`, `matplotlib`, `seaborn`
+`pandas`, `scikit-learn`, `matplotlib`
 
 ## 🚀 Run
 ```bash
