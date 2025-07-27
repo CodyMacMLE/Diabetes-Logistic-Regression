@@ -21,4 +21,6 @@ A binary classification model predicting the likelihood of diabetes based on hea
 
 ## 🚀 Run
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate diabetes-ml
+jupyter notebook
