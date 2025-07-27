@@ -1,5 +1,3 @@
-# Diabetes-Logistic-Regression
-
 # 🩺 Diabetes Prediction using Logistic Regression
 
 ## 📌 Project Summary
