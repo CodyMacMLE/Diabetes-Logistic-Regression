@@ -1,4 +1,4 @@
-name: diabetes-logistic
+name: diabetes-ml
 channels:
   - defaults
   - conda-forge
